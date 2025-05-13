@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.1.7" start="node8" apprev="20981" hassounds="0">
+  <panorama id="node8">
+    <input leveltilesize="510" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" height="1632" width="1632" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1632" predecode="0" height="1632"/>
+      <level preload="0" width="816" predecode="0" height="816"/>
+      <level preload="1" width="408" predecode="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="149.381" fovmode="2">
+      <start tilt="1.77746" projection="4" pan="-178.789" fov="101.058"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node8" datetime="2025:05:10 00:15:22" info="" comment="" longitude="-51.08792104" streetviewlink="https://www.google.com/maps/@-26.230275,-51.087921,3a,75y,328.17h,90t/data=!3m4!1e1!3m2!1sCIABIhDzaQIVz0xmOWc2UhCYdEI2!2e10" description="" source="" title="Evolução Militar" copyright="" tags="5LOJADOMILITARCENTROPORTOUNIOSC" latitude="-26.23027503" heading="149.381" customnodeid="" author=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label border="1" wordwrap="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff" height="20" borderradius="1" width="180" textalpha="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot pan="180.649" description="" skinid="ht_node" title="Evolução Militar" target="$fwd" distance="2.19073" tilt="0" id="Point01" url="{node7}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" blendtime="1" zoomout="0" zoomafteroutfov="40" type="mesh" delay="none" zoomin="7" softedge="0" zoomspeed="2" enabled="1" zoomfov="40"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" contextvr="1" zoomcentercursor="1" speedwheel="1" invertcontrol="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" invertwheel="0" sensitivity="8" simulatemass="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltilesize="510" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" height="1632" width="1632" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1632" predecode="0" height="1632"/>
+      <level preload="0" width="816" predecode="0" height="816"/>
+      <level preload="1" width="408" predecode="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-213.664" fovmode="2">
+      <start tilt="-0.534341" projection="4" pan="177.345" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node7" datetime="2025:05:10 00:14:53" info="" comment="" longitude="-51.08793244" streetviewlink="https://www.google.com/maps/@-26.2302582,-51.0879324,3a,75y,328.99h,90t/data=!3m4!1e1!3m2!1sCIABIhCwMRJP3ZpoDCrzRnh3qDca!2e10" description="" source="" title="Evolução Militar" copyright="" tags="5LOJADOMILITARCENTROPORTOUNIOSC" latitude="-26.23025819" heading="-213.664" customnodeid="" author=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label border="1" wordwrap="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff" height="20" borderradius="1" width="180" textalpha="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot pan="-362.396" description="" skinid="ht_node" title="Evolução Militar" target="$fwd" distance="2.19073" tilt="0" id="Point01" url="{node8}"/>
+      <hotspot pan="-183.325" description="" skinid="ht_node" title="Evolução Militar" target="$fwd" distance="2.05369" tilt="0" id="Point02" url="{node6}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" blendtime="1" zoomout="0" zoomafteroutfov="40" type="mesh" delay="none" zoomin="7" softedge="0" zoomspeed="2" enabled="1" zoomfov="40"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" contextvr="1" zoomcentercursor="1" speedwheel="1" invertcontrol="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" invertwheel="0" sensitivity="8" simulatemass="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltilesize="510" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" height="1632" width="1632" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1632" predecode="0" height="1632"/>
+      <level preload="0" width="816" predecode="0" height="816"/>
+      <level preload="1" width="408" predecode="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="145.335" fovmode="2">
+      <start tilt="-0.109523" projection="4" pan="172.405" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node6" datetime="2025:05:10 00:14:45" info="" comment="" longitude="-51.08794284" streetviewlink="https://www.google.com/maps/@-26.2302422,-51.0879428,3a,75y,332.93h,90t/data=!3m4!1e1!3m2!1sCIABIhBRPkprMZGNyktF77TNIlig!2e10" description="" source="" title="Evolução Militar" copyright="" tags="5LOJADOMILITARCENTROPORTOUNIOSC" latitude="-26.23024225" heading="145.335" customnodeid="" author=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label border="1" wordwrap="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff" height="20" borderradius="1" width="180" textalpha="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot pan="-4.32622" description="" skinid="ht_node" title="Evolução Militar" target="$fwd" distance="2.05369" tilt="0" id="Point01" url="{node7}"/>
+      <hotspot pan="172.824" description="" skinid="ht_node" title="Evolução Militar" target="$fwd" distance="1.80874" tilt="0" id="Point02" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" blendtime="1" zoomout="0" zoomafteroutfov="40" type="mesh" delay="none" zoomin="7" softedge="0" zoomspeed="2" enabled="1" zoomfov="40"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" contextvr="1" zoomcentercursor="1" speedwheel="1" invertcontrol="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" invertwheel="0" sensitivity="8" simulatemass="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltilesize="510" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" height="1632" width="1632" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1632" predecode="0" height="1632"/>
+      <level preload="0" width="816" predecode="0" height="816"/>
+      <level preload="1" width="408" predecode="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="236.39" fovmode="2">
+      <start tilt="-16.5039" projection="4" pan="-124.805" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node5" datetime="2025:05:10 00:14:36" info="" comment="" longitude="-51.08795121" streetviewlink="https://www.google.com/maps/@-26.2302278,-51.0879512,3a,75y,1.2h,90t/data=!3m4!1e1!3m2!1sCIABIhAY0QJnalXsDwY6SmU70jCd!2e10" description="" source="" title="Evolução Militar" copyright="" tags="5LOJADOMILITARCENTROPORTOUNIOSC" latitude="-26.23022782" heading="236.39" customnodeid="" author=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label border="1" wordwrap="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff" height="20" borderradius="1" width="180" textalpha="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot pan="83.8785" description="" skinid="ht_node" title="Evolução Militar" target="$fwd" distance="1.80874" tilt="0" id="Point01" url="{node6}"/>
+      <hotspot pan="267.181" description="" skinid="ht_node" title="Evolução Militar" target="$fwd" distance="1.83159" tilt="0" id="Point02" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" blendtime="1" zoomout="0" zoomafteroutfov="40" type="mesh" delay="none" zoomin="7" softedge="0" zoomspeed="2" enabled="1" zoomfov="40"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" contextvr="1" zoomcentercursor="1" speedwheel="1" invertcontrol="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" invertwheel="0" sensitivity="8" simulatemass="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltilesize="510" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" height="1632" width="1632" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1632" predecode="0" height="1632"/>
+      <level preload="0" width="816" predecode="0" height="816"/>
+      <level preload="1" width="408" predecode="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="61.2549" fovmode="2">
+      <start tilt="-5.04013" projection="4" pan="121.275" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node4" datetime="2025:05:10 00:14:20" info="" comment="" longitude="-51.08796061" streetviewlink="https://www.google.com/maps/@-26.2302137,-51.0879606,3a,75y,299.98h,90t/data=!3m4!1e1!3m2!1sCIABIhAD2hinP67Q39VQ8zAdZ0J1!2e10" description="" source="" title="Evolução Militar" copyright="" tags="5LOJADOMILITARCENTROPORTOUNIOSC" latitude="-26.23021367" heading="61.2549" customnodeid="" author=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label border="1" wordwrap="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff" height="20" borderradius="1" width="180" textalpha="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot pan="-87.9542" description="" skinid="ht_node" title="Evolução Militar" target="$fwd" distance="1.83159" tilt="0" id="Point01" url="{node5}"/>
+      <hotspot pan="90.4959" description="" skinid="ht_node" title="Evolução Militar" target="$fwd" distance="1.91532" tilt="0" id="Point02" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" blendtime="1" zoomout="0" zoomafteroutfov="40" type="mesh" delay="none" zoomin="7" softedge="0" zoomspeed="2" enabled="1" zoomfov="40"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" contextvr="1" zoomcentercursor="1" speedwheel="1" invertcontrol="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" invertwheel="0" sensitivity="8" simulatemass="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" height="1632" width="1632" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1632" predecode="0" height="1632"/>
+      <level preload="0" width="816" predecode="0" height="816"/>
+      <level preload="1" width="408" predecode="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="237.186" fovmode="2">
+      <start tilt="-22.4044" projection="4" pan="-110.804" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node3" datetime="2025:05:10 00:14:11" info="" comment="" longitude="-51.08796999" streetviewlink="https://www.google.com/maps/@-26.2301986,-51.08797,3a,75y,347.99h,90t/data=!3m4!1e1!3m2!1sCIABIhBtc3lhpNPEcWZbu6ZgolX0!2e10" description="" source="" title="Evolução Militar" copyright="" tags="5LOJADOMILITARCENTROPORTOUNIOSC" latitude="-26.23019864" heading="237.186" customnodeid="" author=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label border="1" wordwrap="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff" height="20" borderradius="1" width="180" textalpha="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot pan="86.427" description="" skinid="ht_node" title="Evolução Militar" target="$fwd" distance="1.91532" tilt="0" id="Point01" url="{node4}"/>
+      <hotspot pan="266.932" description="" skinid="ht_node" title="Evolução Militar" target="$fwd" distance="1.88775" tilt="0" id="Point02" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" blendtime="1" zoomout="0" zoomafteroutfov="40" type="mesh" delay="none" zoomin="7" softedge="0" zoomspeed="2" enabled="1" zoomfov="40"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" contextvr="1" zoomcentercursor="1" speedwheel="1" invertcontrol="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" invertwheel="0" sensitivity="8" simulatemass="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltilesize="510" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" height="1632" width="1632" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1632" predecode="0" height="1632"/>
+      <level preload="0" width="816" predecode="0" height="816"/>
+      <level preload="1" width="408" predecode="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="63.8887" fovmode="2">
+      <start tilt="-12.3239" projection="4" pan="114.264" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node2" datetime="2025:05:10 00:14:01" info="" comment="" longitude="-51.08797938" streetviewlink="https://www.google.com/maps/@-26.2301839,-51.0879794,3a,75y,309.62h,90t/data=!3m4!1e1!3m2!1sCIABIhCCA9Yb8CsKd2kIHmwZf0DC!2e10" description="" source="" title="Evolução Militar" copyright="" tags="5LOJADOMILITARCENTROPORTOUNIOSC" latitude="-26.23018390" heading="63.8887" customnodeid="" author=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label border="1" wordwrap="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff" height="20" borderradius="1" width="180" textalpha="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot pan="-86.3658" description="" skinid="ht_node" title="Evolução Militar" target="$fwd" distance="1.88775" tilt="0" id="Point01" url="{node3}"/>
+      <hotspot pan="93.4041" description="" skinid="ht_node" title="Evolução Militar" target="$fwd" distance="2.03677" tilt="0" id="Point02" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" blendtime="1" zoomout="0" zoomafteroutfov="40" type="mesh" delay="none" zoomin="7" softedge="0" zoomspeed="2" enabled="1" zoomfov="40"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" contextvr="1" zoomcentercursor="1" speedwheel="1" invertcontrol="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" invertwheel="0" sensitivity="8" simulatemass="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input leveltilesize="510" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" height="1632" width="1632" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="1632" predecode="0" height="1632"/>
+      <level preload="0" width="816" predecode="0" height="816"/>
+      <level preload="1" width="408" predecode="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="329.965" fovmode="2">
+      <start tilt="-15.1385" projection="4" pan="174.266" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node1" datetime="2025:05:10 00:13:42" info="" comment="" longitude="-51.08798944" streetviewlink="https://www.google.com/maps/@-26.230168,-51.0879894,3a,75y,155.7h,90t/data=!3m4!1e1!3m2!1sCIABIhDFjXQYzdpxd6CtZt2ExsIZ!2e10" description="" source="" title="Evolução Militar" copyright="" tags="5LOJADOMILITARCENTROPORTOUNIOSC" latitude="-26.23016796" heading="329.965" customnodeid="" author=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label border="1" wordwrap="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff" height="20" borderradius="1" width="180" textalpha="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot pan="179.48" description="" skinid="ht_node" title="Evolução Militar" target="$fwd" distance="2.03677" tilt="0" id="Point01" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" blendtime="1" zoomout="0" zoomafteroutfov="40" type="mesh" delay="none" zoomin="7" softedge="0" zoomspeed="2" enabled="1" zoomfov="40"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" contextvr="1" zoomcentercursor="1" speedwheel="1" invertcontrol="1" rubberband="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" invertwheel="0" sensitivity="8" simulatemass="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" tags="" comment="" description="" author="" title=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
